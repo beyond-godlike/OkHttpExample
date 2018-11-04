@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/OkHttpExample.iml" filepath="$PROJECT_DIR$/.idea/modules/OkHttpExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/OkHttpExample_main.iml" filepath="$PROJECT_DIR$/.idea/modules/OkHttpExample_main.iml" group="OkHttpExample" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/OkHttpExample_test.iml" filepath="$PROJECT_DIR$/.idea/modules/OkHttpExample_test.iml" group="OkHttpExample" />
+    </modules>
+  </component>
+</project>
